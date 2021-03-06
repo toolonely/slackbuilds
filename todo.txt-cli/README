@@ -1,7 +1,8 @@
 A simple and extensible shell script for managing your todo.txt file.
 
 After installing the package, copy the default config file to your home
-directory and adjust it accordingly, otherwise todo.txt-cli will misbehave:
+directory and adjust it accordingly, otherwise todo.txt-cli will
+misbehave:
 
 $ mkdir ~/.todo
 $ cp /etc/todo.cfg ~/.todo/config
