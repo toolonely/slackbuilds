@@ -11,4 +11,3 @@ $ mkdir ~/todo
 Then edit ~/.todo/config:
 
 export TODO_DIR=/home/$USER/todo
-
